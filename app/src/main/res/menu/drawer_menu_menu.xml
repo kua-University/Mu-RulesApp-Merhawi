@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_chapter_one"
+            android:title="Chapter One"
+            android:icon="@drawable/small_mu_book_logo" /> <!-- Replace with your about icon -->
+
+        <item
+            android:id="@+id/nav_chapter_two"
+            android:title="Chapter Two"
+            android:icon="@drawable/small_mu_book_logo" /> <!-- Replace with your feedback icon -->
+
+        <item
+            android:id="@+id/nav_chapter_three"
+            android:title="Chapter Three"
+            android:icon="@drawable/small_mu_book_logo" /> <!-- Replace with your exit icon -->
+        <item
+            android:id="@+id/nav_chapter_four"
+            android:title="Chapter Four"
+            android:icon="@drawable/small_mu_book_logo" />
+
+    </group>
+</menu>

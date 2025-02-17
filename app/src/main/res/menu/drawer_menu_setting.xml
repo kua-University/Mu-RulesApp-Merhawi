@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_about"
+            android:title="About"
+            android:icon="@drawable/info_about_icon" /> <!-- Replace with your about icon -->
+
+        <item
+            android:id="@+id/nav_favourite"
+            android:title="Favourites"
+            android:icon="@drawable/a64px_bookmark_book_icon" /> <!-- Replace with your feedback icon -->
+
+        <item
+            android:id="@+id/nav_exit"
+            android:title="Exit"
+            android:icon="@drawable/exit_close_cancel_icon" /> <!-- Replace with your exit icon -->
+        <item
+            android:id="@+id/nav_sign_out"
+            android:title="Log Out"
+            android:icon="@drawable/exit_close_cancel_icon" />
+    </group>
+</menu>

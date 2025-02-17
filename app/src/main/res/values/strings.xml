@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MU-RulesApp</string>
+    <string name="default_web_client_id">139513922276-t8nif39ieesjafp3v40mlikrhi3od952.apps.googleusercontent.com</string>
+
+    <style name="Animation.Design.BottomSheetDialog."></style>
+
+    <string name="intro_essay">This App is guid to understanding the policies and guidlines of Mekelle University </string>
+
+</resources>

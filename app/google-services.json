@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "139513922276",
+    "firebase_url": "https://mu-rules-app-default-rtdb.firebaseio.com",
+    "project_id": "mu-rules-app",
+    "storage_bucket": "mu-rules-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139513922276:android:98fd8cf37f7aed35c2e2f1",
+        "android_client_info": {
+          "package_name": "com.example.mu_rulebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139513922276-onlkqbghmphn7l7r9nhbcnin3rlja2tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCbj62Qj50oZYoKk69W5ZC5elj-JItCNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139513922276-onlkqbghmphn7l7r9nhbcnin3rlja2tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

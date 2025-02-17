@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/bounce_interpolator">
+
+    <!-- Drop from the top -->
+    <translate
+        android:duration="1500"
+        android:fromYDelta="-1000dp"
+        android:toYDelta="0dp" />
+
+    <!-- First large bounce -->
+    <translate
+        android:duration="1000"
+        android:fromYDelta="0dp"
+        android:toYDelta="-80dp" />
+
+    <translate
+        android:duration="1000"
+        android:fromYDelta="-80dp"
+        android:toYDelta="0dp" />
+
+    <!-- Second medium bounce -->
+    <translate
+        android:duration="700"
+        android:fromYDelta="0dp"
+        android:toYDelta="-30dp" />
+
+    <translate
+        android:duration="700"
+        android:fromYDelta="-40dp"
+        android:toYDelta="0dp" />
+
+    <!-- Final small bounce -->
+    <translate
+        android:duration="600"
+        android:fromYDelta="0dp"
+        android:toYDelta="5dp" />
+
+    <translate
+        android:duration="600"
+        android:fromYDelta="0dp"
+        android:toYDelta="0dp" />
+</set>
+
+
+
+
+
+
