@@ -119,9 +119,9 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:padding="2dp"
-                            android:text="Chapter One"
+                            android:text="GENERAL PROVISIONS"
                             android:textColor="@color/black"
-                            android:textSize="25sp"
+                            android:textSize="20sp"
                             android:textStyle="bold" />
 
                         <TextView
@@ -174,9 +174,9 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:padding="2dp"
-                        android:text="Chapter Two"
+                        android:text="ORGANIZATIONS AND ADMINSTRATIONS"
                         android:textColor="@color/black"
-                        android:textSize="25sp"
+                        android:textSize="20sp"
                         android:textStyle="bold" />
 
                     <TextView
@@ -228,9 +228,9 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:padding="2dp"
-                            android:text="Chapter Three"
+                            android:text="HUMAN RESOURCE DEVELOPEMENT"
                             android:textColor="@color/black"
-                            android:textSize="25sp"
+                            android:textSize="20sp"
                             android:textStyle="bold" />
 
                         <TextView
@@ -294,9 +294,9 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:padding="2dp"
-                            android:text="Chapter Four"
+                            android:text="RIGHTS AND DUTIES OF ACADEMIC STAFF"
                             android:textColor="@color/black"
-                            android:textSize="25sp"
+                            android:textSize="20sp"
                             android:textStyle="bold" />
 
                         <TextView
